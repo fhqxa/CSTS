@@ -1,4 +1,4 @@
-# CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning in One Line of Code
+# CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning
 (accepted to TNNLS 2024).
 
 PyTorch implementation of 
